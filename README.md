@@ -1,4 +1,4 @@
-# flutter_finance_app_ui
+# flutter_finance_app
 
 ## Getting Started
 
