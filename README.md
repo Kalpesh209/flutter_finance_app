@@ -3,7 +3,7 @@
 ## Getting Started
 
 
-flutter_finance_app_ui project has "main.dart" as Entry Point.
+flutter_finance_app project has "main.dart" as Entry Point.
 
 - [Hire Me](https://www.fiverr.com/kalpeshkhandla?up_rollout=true)
 - [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
